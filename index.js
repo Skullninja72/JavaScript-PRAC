@@ -4,6 +4,10 @@ a();
 b();
 console.log(x);
 
+const f1 = ()=>{
+     console.log("Hey There!");
+}
+
 
 function a(){
      var x = 10;
